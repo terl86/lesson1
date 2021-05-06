@@ -1,5 +1,6 @@
 package Homework.lesson1.HomeWorkApp;
 
+
 public class Cat implements JumpableRunnable {
     int maxHeight;
     int maxLength;
